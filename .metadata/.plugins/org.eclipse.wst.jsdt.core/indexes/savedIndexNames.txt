@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+C:\Users\admin\MavenWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3270339782.index
+1727186282.index
+2605696691.index
+2980770393.index
+561723859.index
+1028134498.index
+4040710046.index
+3822646564.index
